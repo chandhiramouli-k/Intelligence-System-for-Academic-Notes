@@ -1,0 +1,22 @@
+# UNIT 1: INTRODUCTION TO INTELLIGENT SYSTEMS
+
+## Definition of Intelligent Systems
+An Intelligent System is a machine with an embedded, Internet-connected computer that has the capacity to gather and analyze data and communicate with other systems. These systems are characterized by their ability to learn, reason, and adapt to new information.
+
+## Key Characteristics
+1. Perception: The ability to collect data from the environment using sensors like cameras, microphones, or GPS.
+2. Reasoning: The process of using logic to reach conclusions or make decisions based on available data.
+3. Learning: The ability to improve performance over time through experience or Machine Learning (ML) algorithms.
+4. Action: Executing tasks or communicating results to users via interfaces or actuators.
+
+## The Turing Test
+Proposed by Alan Turing in 1950, the Turing Test is a method for determining whether or not a computer is capable of thinking like a human. A machine passes the test if a human evaluator cannot reliably tell the machine's responses apart from those of a human.
+
+## Machine Learning vs. Deep Learning
+Machine Learning (ML) is a subfield of Artificial Intelligence that focuses on building systems that learn from data. Deep Learning is a specialized type of ML inspired by the structure of the human brain, using multi-layered Neural Networks to process complex patterns in data like images and speech.
+
+## Applications of Intelligent Systems
+- Autonomous Vehicles: Self-driving cars use lidar and computer vision for navigation.
+- Virtual Assistants: Tools like Siri and Alexa use Natural Language Processing (NLP).
+- Healthcare: AI systems analyze medical images to detect diseases like cancer early.
+- Finance: Algorithmic trading systems analyze market trends to make high-speed trades.
